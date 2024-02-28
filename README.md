@@ -6,7 +6,7 @@ Submitted by: **Miguel Gomez**
 
 [TODO] 
 
-Time spent: **24** hours spent in total
+Time spent: **48** hours spent in total
 
 ## Required Features
 
