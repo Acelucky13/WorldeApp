@@ -1,4 +1,4 @@
-# Project 2 - *WordleApp*
+# Project 1 - *WordleApp*
 
 Submitted by: **Miguel Gomez**
 
@@ -6,7 +6,7 @@ Submitted by: **Miguel Gomez**
 
 [TODO] 
 
-Time spent: **48** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Required Features
 
